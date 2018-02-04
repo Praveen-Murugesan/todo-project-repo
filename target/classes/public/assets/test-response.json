@@ -1,0 +1,28 @@
+[{
+    "taskName": "task 1",
+    "taskDesc": "This just a sample task 1",
+    "taskDueDate": "31-Jan-2018",
+    "taskStatus": "Pending",
+    "selected": false
+},
+{
+    "taskName": "task 2",
+    "taskDesc": "This just a sample task 1",
+    "taskDueDate": "05-Jan-2018",
+    "taskStatus": "Completed",
+    "selected": false
+},
+{
+    "taskName": "task 3",
+    "taskDesc": "This just a sample task 1",
+    "taskDueDate": "28-Jan-2018",
+    "taskStatus": "Overdue",
+    "selected": false
+},
+{
+    "taskName": "task 4",
+    "taskDesc": "This just a sample task 1",
+    "taskDueDate": "31-Jan-2018",
+    "taskStatus": "Pending",
+    "selected": false
+}]
